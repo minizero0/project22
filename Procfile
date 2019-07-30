@@ -1,1 +1,1 @@
-web: gunicorn week5.wsgi --log-file -
+web: gunicorn newbie.wsgi --log-file -
